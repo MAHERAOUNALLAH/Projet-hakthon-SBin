@@ -1,3 +1,19 @@
+♻️ Smart Waste Management – Demonstration Website
+🌍 Overview
+
+This website presents our Smart Waste Management Project, developed for a hackathon focused on sustainability and technology.
+The goal of the project is to create an intelligent waste bin system that sorts materials automatically and informs collection agents about the bin’s status (empty, half-full, or full) through a connected app.
+
+
+ Bin Tracker Application
+
+Mobile/web app for collection agents.
+
+Integrates Google Maps to show bin locations and real-time fill levels.
+
+Simple, intuitive interface for quick status checks.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
